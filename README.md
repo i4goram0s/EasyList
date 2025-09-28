@@ -1,2 +1,7 @@
 # EasyList
-Repositório de entrega do MVP da sprint de "Gestão Ágil de Projetos e Produtos"
+O app "EasyList" consiste em um sistema simples para criação e gerenciamento de listas de compras a fim de facilitar o manuseio e auxiliar na redução de itens esquecidos na hora de realizas as compras.
+
+---
+## Componenetes do repositório
+
+
